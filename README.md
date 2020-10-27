@@ -2,4 +2,4 @@
 
 一线前端工程师，面对疾风吧！[个人博客： https://alexwjj.github.io/](https://alexwjj.github.io/)
 
-[![alexwjj github stats](https://github-readme-stats.vercel.app/api?username=alexwjj&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![alexwjj github stats](https://github-readme-stats.vercel.app/api?username=alexwjj&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
