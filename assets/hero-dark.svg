@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="320" viewBox="0 0 1040 320" role="img" aria-labelledby="title description">
+  <title id="title">俊劫 / alexwjj · 保持好奇，把想法变成作品。</title>
+  <desc id="description">Frontend developer, AI workflows and real-world products. 保持所有热爱，持续创造。</desc>
+  <rect x="1" y="1" width="1038" height="318" rx="18" fill="#131813" stroke="#303a2b"/>
+  <g fill="none" stroke="#3c4934" stroke-width="1">
+    <path d="M32 69H1008M612 70V287"/>
+    <path d="M635 94h358v187H635z" stroke-dasharray="2 7" opacity=".45"/>
+    <path d="M600 30h24m-12-12v24M985 279h18m-9-9v18"/>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <g fill="none" stroke="#718060" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m42 29 9 8-9 8m15 0h9"/></g>
+    <text x="82" y="44" fill="#f0f3e9" font-size="17" font-weight="600">俊劫 <tspan fill="#96a18b" font-weight="400"> / alexwjj</tspan></text>
+    <text x="997" y="42" fill="#96a18b" font-size="10" text-anchor="end" letter-spacing="1.8" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">BUILD · LEARN · SHARE</text>
+    <rect x="305" y="213" width="110" height="8" rx="2" fill="#c4ef83" opacity=".7"/>
+    <text x="48" y="142" fill="#f0f3e9" font-size="51" font-weight="650" letter-spacing="-1">保持好奇，</text>
+    <text x="48" y="211" fill="#f0f3e9" font-size="51" font-weight="650" letter-spacing="-1">把想法变成作品。</text>
+    <text x="50" y="269" fill="#96a18b" font-size="11" letter-spacing="1.6" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">FRONTEND / AI WORKFLOWS / PRODUCTS</text>
+    <rect x="652" y="105" width="328" height="159" rx="10" fill="#1d251b" stroke="#3c4934"/>
+    <path d="M652 136h328" stroke="#3c4934"/>
+    <circle cx="669" cy="121" r="3" fill="#718060"/><circle cx="681" cy="121" r="3" fill="#3c4934"/><circle cx="693" cy="121" r="3" fill="#3c4934"/>
+    <text x="716" y="125" fill="#96a18b" font-size="10" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">~/ideas/next-project</text>
+    <g fill="#3c4934"><rect x="674" y="155" width="72" height="5" rx="2"/><rect x="755" y="155" width="43" height="5" rx="2"/><rect x="685" y="172" width="102" height="5" rx="2"/><rect x="685" y="189" width="65" height="5" rx="2"/><rect x="760" y="189" width="35" height="5" rx="2"/><rect x="674" y="206" width="88" height="5" rx="2"/></g>
+    <rect x="685" y="172" width="36" height="5" rx="2" fill="#c4ef83"/>
+    <g fill="none" stroke="#718060" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m855 165-19 19 19 19m46-38 19 19-19 19m-17-47-12 56"/></g>
+    <path d="M652 231h328" stroke="#3c4934"/>
+    <circle cx="670" cy="248" r="2.5" fill="#718060"/><text x="681" y="251" fill="#96a18b" font-size="9" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">make something useful</text>
+    <rect x="923" y="84" width="37" height="37" rx="9" fill="#c4ef83"/>
+    <path d="m942 93 2.2 6.3 6.3 2.2-6.3 2.2-2.2 6.3-2.2-6.3-6.3-2.2 6.3-2.2z" fill="none" stroke="#536b31" stroke-width="1.5"/>
+  </g>
+</svg>
